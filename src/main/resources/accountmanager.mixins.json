@@ -1,0 +1,9 @@
+{
+  "required": false,
+  "package": "com.example.accountmanager.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MultiplayerScreenMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
